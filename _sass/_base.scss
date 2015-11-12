@@ -23,6 +23,21 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+title, h1, p {
+    color: $secondary-text-color;
+    text-align: $text-align;
+    font-weight: $font-weight;
+}
+
+a {
+    background-color: $background-color;
+    padding: $link-padding;
+    border: $border;
+    border-radius: $radius;
+    font-weight: $font-weight;
+    text-shadow: $text-shadow;
+}
+
 
 
 /**
