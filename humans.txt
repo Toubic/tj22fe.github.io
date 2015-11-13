@@ -1,0 +1,32 @@
+
+    /* TEAM */
+
+
+    Creator: Tobias Johansson.
+
+    Email: tj22fe@student.lnu.se
+
+    GitHub: https://github.com/tj22fe
+
+    Location: Gothenburg, Sweden
+
+----------------------------------------------------
+
+
+    /* SITE */
+
+    Last update: 2015/11/13
+
+    Software:
+
+    * WebStorm
+    * Vagrant
+    * Virtual Box
+    * Git
+    * GitHub
+    * MS Paint
+
+
+
+
+
