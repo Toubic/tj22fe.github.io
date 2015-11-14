@@ -3,6 +3,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
+    <meta property="og:type" content="blog" \>
+    <meta property="url" content="{% if page.title %}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
+    <meta property="image" content="{{ site.url }}/pics/background.jpg" />
+
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
