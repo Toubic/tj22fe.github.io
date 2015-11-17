@@ -5,7 +5,7 @@
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{% if page.title %}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
+    <meta property="og:url" content="{% if page.title %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
     <meta property="og:image" content="{{ site.url }}/pics/bitworlds.jpg" />
     <meta property="og:description" content="A website about my adventures in the Worlds of bits." />
 
