@@ -57,6 +57,6 @@ I used third-party service Disqus and the universal embeded code they provided. 
 
 * What is Open Graph and how do you make use of it?
 
-Open Graph is a way objectify things on the Web so it can be shared on social media. I made use of Open Graph on my website so a user could share any of thegit pages that my website contains.
+Open Graph is a way objectify things on the Web so it can be shared on social media. I made use of Open Graph on my website so a user could share any of the git pages that my website contains.
 
 
